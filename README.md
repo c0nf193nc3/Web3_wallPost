@@ -8,3 +8,5 @@
 * Solidity | Global Variables
 * Solidity | State Variables
 * Solidity | Boolean
+* Solidity | Integer
+* Solidity | Address
