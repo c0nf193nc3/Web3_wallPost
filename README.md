@@ -10,3 +10,4 @@
 * Solidity | Boolean
 * Solidity | Integer
 * Solidity | Address
+* Solidity | Bytes
