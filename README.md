@@ -19,3 +19,4 @@
 * Solidity | Enum
 * Solidity | Arrays
 * Solidity | Structs
+* Solidity | Mapping
