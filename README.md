@@ -17,3 +17,4 @@
 * Solidity | String
 * Solidity | Default Values
 * Solidity | Enum
+* Solidity | Arrays
