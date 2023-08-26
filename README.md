@@ -11,3 +11,4 @@
 * Solidity | Integer
 * Solidity | Address
 * Solidity | Bytes
+* Solidity | Constant
