@@ -16,3 +16,4 @@
 * Solidity | For Loop
 * Solidity | String
 * Solidity | Default Values
+* Solidity | Enum
