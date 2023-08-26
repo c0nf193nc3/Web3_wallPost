@@ -7,3 +7,4 @@
 * Solidity | Local Variables
 * Solidity | Global Variables
 * Solidity | State Variables
+* Solidity | Boolean
