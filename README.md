@@ -14,3 +14,5 @@
 * Solidity | Constant
 * Solidity | If Else
 * Solidity | For Loop
+* Solidity | String
+* Solidity | Default Values
