@@ -20,3 +20,4 @@
 * Solidity | Arrays
 * Solidity | Structs
 * Solidity | Mapping
+* Solidity | View and Pure
